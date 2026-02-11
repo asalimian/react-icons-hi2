@@ -2,7 +2,7 @@
   "lock": false,
   "name": "@preact-icons/hi2",
   "license": "MIT",
-  "version": "1.0.13",
+  "version": "1.0.14",
   "exports": {
     ".": "./mod.ts",
     "./HiAcademicCap": "./ico/HiAcademicCap.ts",
@@ -988,9 +988,9 @@
   },
   "imports": {
     "@preact-icons/common": "jsr:@preact-icons/common@^1.0.12",
-    "preact": "npm:preact@10.22.1",
-    "preact/jsx-runtime": "npm:preact@10.22.1/jsx-runtime",
-    "preact/hooks": "npm:preact@10.22.1/hooks"
+    "preact": "npm:preact@^10.22.1",
+    "preact/jsx-runtime": "npm:preact@^10.22.1/jsx-runtime",
+    "preact/hooks": "npm:preact@^10.22.1/hooks"
   },
   "publish": {
     "exclude": [
